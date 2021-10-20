@@ -162,8 +162,8 @@ Please provide a valid password.
 {/* Dynamic Login & Registration  */}
 <Button type="submit">{isLogin? 'Login':'Register'}</Button> <br />
 {
- user.email? <p>Login SuccessFull !! <Link className="text-primary fw-bold"  to ="/home"> Back To Home</Link></p>  
- : <p>Please Login to access our site</p>
+ user.email? <p>Login SuccessFull !! Wellcome {user.email} <Link className="text-primary fw-bold"  to ="/home"> Back To Home</Link></p>  
+ : <p> </p>
 }
 <div className="form-check mt-5 ">
 <input onChange={toggleLogin} className="ms-3 form-check-input border border-danger shadow shadow-4" type="checkbox" value="" id="gridCheck1"/>
