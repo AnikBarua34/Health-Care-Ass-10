@@ -1,0 +1,39 @@
+[
+    
+    {
+        "id": 1,
+        "name": "PROF. KARINA",
+        "title": "MBBS, DLO (DU), FICS (USA)",
+        "img": "https://st2.depositphotos.com/1345889/10015/i/950/depositphotos_100152546-stock-photo-attractive-young-female-doctor.jpg"
+    },
+    {
+        "id": 2,
+        "name": "PROF. MAJOR (RETD.)",
+        "title": "DLO (DU), FICS (USA)",
+        "img": "https://labaidgroup.com/files/doctor_Photo_20201031051408148.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr. KARISHMA",
+        "title": "MBBS",
+        "img": "https://www.westend61.de/images/0000947995pw/portrait-of-red-haired-young-female-doctor-in-hospital-CUF12003.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Assot. Prof. Dr. Moududul Haque",
+        "title": "MBBS, MD, PhD (MS), Nurosurgery",
+        "img": "https://labaidgroup.com/files/doctor_Dr.%20Moududul%20Haque_20190615022450186.jpg"
+    },
+    {
+        "id": 5,
+        "name": "BRIG. GEN. (DR.) NURUN NAHAR FATEMA",
+        "title": "MBBS, FCPS (Paed), FRCP (Edin),",
+        "img": "https://labaidgroup.com/files/doctor_Brig.%20Gen.%20Dr.%20Nurun%20Nahar%20Fatema,%20Padiatric%20Cardiology_20170129225215091.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dr. A F M Kamal Uddin",
+        "title": "MBBS, DTCD, MD (Radiation Oncology)FRCP (Edin)",
+        "img": "https://labaidgroup.com/files/doctor_Dr.%20A.F.M%20Kamal%20Uddin_20201208071918001.jpg"
+    }
+]

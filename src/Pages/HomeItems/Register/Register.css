@@ -1,0 +1,10 @@
+.form-container:hover .btn{
+    background-color: black;
+}
+.button:hover .btn{
+    background-color: brown;
+}
+/* .login-registration-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} */
