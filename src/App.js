@@ -54,9 +54,7 @@ function App() {
 <Login></Login>
 </Route>
 
-{/* <Route path="/register">
-<Register></Register>
-</Route> */}
+
 
 <Route path="*">
 <NotFound></NotFound>

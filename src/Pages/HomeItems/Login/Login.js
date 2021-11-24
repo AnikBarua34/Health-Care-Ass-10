@@ -69,12 +69,13 @@ const handleGoogleLogin=()=>{
     }
 
     // login processing 
-    const processLogin =(email,login)=>{
+    const processLogin =(email,password)=>{
       signInWithEmailAndPassword(auth, email, password)
       .then(result=>{
         const user = result.user;
         console.log(user);
         setError('');
+        history.push(location.state?.from || "/home")
       })
       .catch(error=>{
         setError(error.message)
@@ -104,6 +105,7 @@ const registerNewUSer=(email,password)=>{
         const user= result.user
         console.log(user);
         setError('');
+        history.push(location.state?.from || "/home")
       })
       .catch(error =>{
         setError(error.message)
